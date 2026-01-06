@@ -1,4 +1,4 @@
-# Operating_Systems_Projects
+# Operating Systems Projects
 
 PintOS: Operating System Kernel Development
 This repository contains a series of projects developed for the Operating Systems course at USI (Università della Svizzera italiana). The projects involve modifying the Pintos kernel to implement fundamental OS features, including thread synchronization, preemptive scheduling, system calls, and file system management.
